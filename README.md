@@ -1,16 +1,40 @@
-# React + Vite
+# 🌤️ Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, modern weather application built with React and Material-UI. Features real-time weather data, forecasts, favorites, and more.
 
-Currently, two official plugins are available:
+![Weather Dashboard Preview](https://via.placeholder.com/800x400.png?text=Weather+Dashboard+Screenshot)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- **🌍 Current Weather Display** - Real-time weather conditions
+- **📅 5-Day Forecast** - Hourly and daily forecasts
+- **🔍 Location Search** - Search any city worldwide
+- **⭐ Favorites** - Save your favorite locations
+- **🌡️ Unit Toggle** - Switch between Celsius and Fahrenheit
+- **📍 Geolocation** - Get weather for your current location
+- **🎨 Beautiful UI** - Modern design with animations
+- **📱 Responsive** - Works on all devices
+- **💾 Local Storage** - Saves preferences and favorites
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- **React 18** - Frontend library
+- **Vite** - Build tool & dev server
+- **Material-UI** - Component library
+- **Framer Motion** - Animations
+- **React Icons** - Icon library
+- **date-fns** - Date formatting
+- **Axios** - HTTP client (for API integration)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+   cd weather-dashboard
