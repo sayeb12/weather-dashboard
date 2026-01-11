@@ -36,5 +36,5 @@ A beautiful, modern weather application built with React and Material-UI. Featur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+   git clone https://github.com/sayeb12/weather-dashboard.git
    cd weather-dashboard
